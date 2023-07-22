@@ -1,3 +1,10 @@
+[2023.7.22]
+克隆了仓库并检出了addSaveProgress分支的用户请注意
+我于2023.7.22 19:15向该分支强推了代码，拉取代码时请注意操作方式(如下)。
+git fetch origin addSaveProgress
+git reset --hard origin/addSaveProgress
+----------
+仓库地址: github.com/BailPlus/bssenglish ，欢迎贡献！
 [2023.5.2]
 停更通知
 由于学习原因，我准备暂时停更此项目。预计最迟在2024年6月10日复更。敬请谅解。
